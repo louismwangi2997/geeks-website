@@ -126,3 +126,17 @@ form button:hover {
 form button:active {
     background-color: #004080;
 }
+.papa {
+    margin-left: 100px;
+}
+input, textarea {
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background: cyan;
+    border: none;
+}
